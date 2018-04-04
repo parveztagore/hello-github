@@ -1,0 +1,26 @@
+{
+  "name": "bower.json",
+  "homepage": "https://github.com/parveztagore/hello-github",
+  "authors": [
+    "Parvez Tagore <parveztagore@gmail.com>"
+  ],
+  "description": "This porjece for pratcing github",
+  "main": "index.html",
+  "keywords": [
+    "Hello-Github"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.2",
+    "bootstrap": "^4.0.0",
+    "font-awesome": "^5.0.9"
+  }
+}
